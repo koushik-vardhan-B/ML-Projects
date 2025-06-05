@@ -1,0 +1,7 @@
+prefix=/home/koushik-vardhan/Desktop/ML/PracticalIplementation/23-MLProjects/myven
+includedir=${prefix}/include
+ 
+Name: InputProto
+Description: Input extension headers
+Version: 2.3.99.2
+Cflags: -I${includedir}
