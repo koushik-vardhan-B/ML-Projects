@@ -1,7 +1,0 @@
-prefix=/home/koushik-vardhan/Desktop/ML/PracticalIplementation/23-MLProjects/myven
-includedir=${prefix}/include
- 
-Name: FontsProto
-Description: Fonts extension headers
-Version: 2.1.3
-Cflags: -I${includedir}
