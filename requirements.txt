@@ -6,4 +6,4 @@ seaborn
 ipykernel
 XGBoost
 catboost
--e .
+# -e .
