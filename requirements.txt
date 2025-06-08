@@ -6,5 +6,6 @@ seaborn
 ipykernel
 XGBoost
 dill
+flask
 catboost
 # -e .
